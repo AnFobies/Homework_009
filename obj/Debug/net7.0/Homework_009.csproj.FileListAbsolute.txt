@@ -1,0 +1,14 @@
+C:\Users\Антон\Desktop\Homework_009\bin\Debug\net7.0\Homework_009.exe
+C:\Users\Антон\Desktop\Homework_009\bin\Debug\net7.0\Homework_009.deps.json
+C:\Users\Антон\Desktop\Homework_009\bin\Debug\net7.0\Homework_009.runtimeconfig.json
+C:\Users\Антон\Desktop\Homework_009\bin\Debug\net7.0\Homework_009.dll
+C:\Users\Антон\Desktop\Homework_009\bin\Debug\net7.0\Homework_009.pdb
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.dll
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\refint\Homework_009.dll
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.pdb
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\Homework_009.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Homework_009\obj\Debug\net7.0\ref\Homework_009.dll
